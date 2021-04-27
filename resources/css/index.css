@@ -1,0 +1,49 @@
+body{
+background: url(https://img.wallpapersafari.com/desktop/1920/1080/2/70/Y7GZqz.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+.Explore{
+  margin-top: 10%;
+  padding: 20px 40px;
+  background: linear-gradient(to right, rgb(180, 180, 180), rgb(182, 173, 173));
+  color: rgb(0, 0, 0);
+  border: solid rgba(0, 0, 0, 0.774);
+  border-radius: 100px;
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+  left: 44%;
+  opacity: 1;
+  z-index: auto;
+  text-align: center;
+}
+
+.Explore em{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size: xx-large;
+  text-align: center;
+  text-shadow: 1px 1px 2px rgb(115, 114, 122);
+}
+
+.Footer{
+  width: 100%;
+  text-align: center;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  word-spacing: 50px;
+}
+
+footer li{
+  display: inline-block;
+  color: rgb(194, 194, 194);
+}
+
+a:hover{
+  opacity: 0.5;
+}
